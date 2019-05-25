@@ -1,2 +1,2 @@
 # PurchaseReport
-Project completed in my Java class
+Project completed in Java class
